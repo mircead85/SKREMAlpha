@@ -1,0 +1,22 @@
+This constitutes a legal agreement - contract and commitment - between you, an individual physical person, as well as, where applicable, as a duly authorized representative of your organization(s) and Mircea-Adrian Digulescu, a physical person of male sex, born on 17 May 1985 in Timisoara, Socialist Republic of Romania. This constitutes a legally binding full legal contract and supersedes any prior agreements.
+
+PLEASE READ THIS LICENSE CAREFULLY BEFORE ACCESSING THE INTELLECTUAL PROPERTY IN ANY WAY. BY DOWNLOADING OR OTHERWISE ACCESSING THE INTELECTUAL PROPERTY YOU ARE AGREEING TO RESPECT THE TERMS OF THIS CONTRACT. IF THE TERMS OF THIS LICENSE DO NOT WORK FOR YOU, YOU MAY CONTACT MIRCEA DIGULESCU AT mircea.digulescu@mail.ru TO REQUEST DIFFERENT TERMS.
+
+In exchange for your agreement to be legally bound by and observe the terms of this agreement, Mircea-Adrian Digulescu grants you a world-wide, royalty free, non-exclusive, limited personal license to the intellectual property works to which this license applies and also grants you permission to use the IT systems on which the intellectual property is hosted, for the purposes of downloading it (permission to click on links).
+
+If you do not agree to any of the terms of this license, Mircea Digulescu explicitly forbids you from both accessing the Intellectual Property of his in any way, and from using the originating IT systems which he owns or controls to download it.
+
+This software is provided on as-is basis, and is considered (and always will be considered) unfinished work in progress and unsuited for any purpose at all.
+
+This software pertains to Cryptography.
+
+This license grants you Open Source access and royalty free, full rights to the software, insofar as required minimalistically for it and this license to be deemed compliant with the Open Source Exemption for Cryptographic Products of the Wassenaar Arms Control Treaty.
+
+Namely, insofar as it remains Open Source exempt under the Wassenaar Treaty, the Open Source access is limited exclusively for the following purposes:
+- Cryptographic Research and Audit
+- Any additional purposes - if any -, related or not to the above so as to, required to be granted so as to minimalistically remain itself and this license and be deemed compliant with the terms of the Open Source Exemption for Cryptography of the Wassenaar Treaty.
+
+Also, namely, insofar as it remains Open Source exempt under the Wassenaar Treaty, this license requires strict attribution and copy-left terms, both of itself and of the underlying software. Modifications or derived works are NOT permitted EXCEPT where such permission is considered a factual or de jure requirement for compliance with the Open Source Exemption for Cryptographic Products of the Wassenaar Arms Control Treaty, or where, de facto, there is the explicit or implicit factual accord of the Author - of Mircea Digulescu himself (you can contact via email at mircea.digulescu@mail.ru or www.matsoft.ro).
+
+If a conflict arises between a particular provision of this license and the terms under which the software qualifies for the Open Source Exemption for Cryptographic Products of the Wassenaar Arms Control Treaty, the latter shall prevail.
+ 
